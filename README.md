@@ -6,6 +6,9 @@ A professional-grade **IPv4 CIDR and Subnet Calculator** built with **Flutter**.
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id1564239813)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/-LlhrxJ0N_E/0.jpg)](https://www.youtube.com/watch?v=-LlhrxJ0N_E)
+
 ## 🌟 Key Features
 - **Instant CIDR Calculation:** Calculate network addresses, broadcast addresses, and host ranges instantly.
 - **Visual Subnetting:** Easily determine subnet masks and the number of available hosts.
